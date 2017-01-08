@@ -1,0 +1,11 @@
+Uuid: a74a1af8d70d4de9bdef1e421a628013
+ExtensionType: 1
+Name: Sentinel
+ScreenVersion: 0.3.4
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Dobin Rutishauser
+ShortDescription: Performs custom scanning for vulnerabilities in web applications.
+EntryPoint: dist/BurpSentinel.jar
+BuildCommand: ant
