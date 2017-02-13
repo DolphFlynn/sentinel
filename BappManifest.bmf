@@ -1,6 +1,7 @@
 Uuid: a74a1af8d70d4de9bdef1e421a628013
 ExtensionType: 1
 Name: Sentinel
+RepoName: sentinel
 ScreenVersion: 0.9
 SerialVersion: 2
 MinPlatformVersion: 0
