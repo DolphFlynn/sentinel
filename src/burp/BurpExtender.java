@@ -32,7 +32,7 @@ import util.BurpCallbacks;
  * - Initializes UI
  * - Initializes Burp connection
  */
-public class BurpExtender implements IExtensionStateListener {
+public class BurpExtender implements IBurpExtender, IExtensionStateListener {
 
     public IBurpExtenderCallbacks mCallbacks;
 
