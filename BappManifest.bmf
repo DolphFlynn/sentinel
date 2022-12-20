@@ -2,11 +2,12 @@ Uuid: a74a1af8d70d4de9bdef1e421a628013
 ExtensionType: 1
 Name: Sentinel
 RepoName: sentinel
-ScreenVersion: 0.9
-SerialVersion: 3
+ScreenVersion: 0.9.1
+SerialVersion: 4
 MinPlatformVersion: 0
 ProOnly: True
 Author: Dobin Rutishauser
 ShortDescription: Performs custom scanning for vulnerabilities in web applications.
 EntryPoint: dist/BurpSentinel.jar
 BuildCommand: ant
+SupportedProducts: Pro
